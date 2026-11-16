@@ -1,11 +1,11 @@
 [
   {
-    "title": "Login Page",
-    "description": "Functional login page built with HTML AND CSS.",
-    "technologies": ["HTML", "CSS"],
+    "title": "HabitTracker",
+    "description": "HabitTracker helps users build good habits by tracking daily activities, progress, and streaks.",
+    "technologies": ["HTML", "CSS", "JavaScript"],
     "role": "Developer",
     "screenshot": "images/project1.png",
-    "link": "https://github.com/YOUR-GITHUB USERNAME/YOUR-REPOSITORY"
+    "link": "https://planasjoas-dev.github.io/habittracker/"
   },
   {
     "title": "Personal Website",
